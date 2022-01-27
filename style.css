@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#mycoolappz{
+    background-color: coral;
+}
+#mycoolgamez{
+    background-color:rebeccapurple ;
+}
+#mycoolchatbotz{
+    background-color:firebrick;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin:8px auto ;
+}
